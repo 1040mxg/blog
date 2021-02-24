@@ -1,4 +1,5 @@
 layout: post
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+title: "Titanic Tutorial"
+date: 2021-02-23 20:21:00 -0000
+categories: kaggle
+Test content
