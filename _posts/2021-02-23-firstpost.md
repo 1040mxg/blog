@@ -1,7 +1,7 @@
+---
 layout: post
-title: "Titanic Tutorial"
-date: 2021-02-23 20:21:00 -0000
+title: Titanic Tutorial
 permalink: titanic
 tags: kaggle
-
+---
 
