@@ -1,5 +1,6 @@
 #gen settings
 theme: jekyll-theme-minimal
+layout: page
 title: Michelle Gong
 email: michelle.gong@mavs.uta.edu
 description: "Academic blog for Michelle Gong, UTA MSCS '21"
